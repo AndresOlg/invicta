@@ -23,7 +23,7 @@
     "@nuxtjs/pwa": "^3.3.5",
     "@splidejs/vue-splide": "^0.6.12",
     "core-js": "^3.25.3",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.7.4",
     "tw-elements": "^1.0.0-beta2",
     "vue": "3.0.0",
     "vue-server-renderer": "^2.7.10",
